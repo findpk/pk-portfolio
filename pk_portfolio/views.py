@@ -15,7 +15,7 @@ def home(request):
         'description': 'Innovative Software Engineer offering 3 years of solid experience in agile software development with strong CS background.',
         'birthday': '30 June 1998',
         'age': 24,
-        'website': 'https://findpk.github.io/',
+        'website': 'http://itspraveenkumar1152.pythonanywhere.com/',
         'degree': 'BE Computer Science and Engineering',
         'phone': '+91 9626166481',
         'email': 'itspraveenkumar1152@gmail.com',
