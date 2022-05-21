@@ -594,15 +594,15 @@ section .container {
 }
 
 /*--------------------------------------------------------------
-# otherworks
+# awards
 --------------------------------------------------------------*/
-.otherworks .icon-box {
+.awards .icon-box {
   text-align: center;
   background: rgba(204, 204, 204, 0.1);
   padding: 80px 20px;
   transition: all ease-in-out 0.3s;
 }
-.otherworks .icon-box .icon {
+.awards .icon-box .icon {
   margin: 0 auto;
   width: 64px;
   height: 64px;
@@ -615,11 +615,11 @@ section .container {
   margin-bottom: 20px;
   transform-style: preserve-3d;
 }
-.otherworks .icon-box .icon i {
+.awards .icon-box .icon i {
   color: #fff;
   font-size: 28px;
 }
-.otherworks .icon-box .icon::before {
+.awards .icon-box .icon::before {
   position: absolute;
   content: "";
   left: -8px;
@@ -631,33 +631,33 @@ section .container {
   transition: all 0.3s ease-out 0s;
   transform: translateZ(-1px);
 }
-.otherworks .icon-box h4 {
+.awards .icon-box h4 {
   font-weight: 700;
   margin-bottom: 15px;
   font-size: 24px;
 }
-.otherworks .icon-box h4 a {
+.awards .icon-box h4 a {
   color: #fff;
 }
-.otherworks .icon-box p {
+.awards .icon-box p {
   line-height: 24px;
   font-size: 14px;
   margin-bottom: 0;
 }
-.otherworks .icon-box:hover {
+.awards .icon-box:hover {
   background: #18d26e;
   border-color: #18d26e;
 }
-.otherworks .icon-box:hover .icon {
+.awards .icon-box:hover .icon {
   background: #fff;
 }
-.otherworks .icon-box:hover .icon i {
+.awards .icon-box:hover .icon i {
   color: #18d26e;
 }
-.otherworks .icon-box:hover .icon::before {
+.awards .icon-box:hover .icon::before {
   background: #35e888;
 }
-.otherworks .icon-box:hover h4 a, .otherworks .icon-box:hover p {
+.awards .icon-box:hover h4 a, .awards .icon-box:hover p {
   color: #fff;
 }
 
